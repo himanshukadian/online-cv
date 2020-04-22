@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Objective
     summary: |
-      A software engineering undergraduate who is seeking to ﬁnd the
+      A software engineering student who is seeking to ﬁnd the
       opportunity to work in a fun and challenging working environment
       that will encourage him to improve and learn
       new and necessary skills as well as be motivated by
@@ -55,57 +55,47 @@ education:
       university: National Institute of Technology
       time: 2019 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: BSc in Computer Science(H)
       university: Delhi University
       time: 2016 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Developer
       time: 2019 - Present
       company: WSDC
       details: |
-        Describe your role here.
-          - 
-          - 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section.
+      Project I had worked on as of now.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Grievance System using Django Framework with integrated Machine Learning
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This is a Web-Application which will enable students to register and track their greivance. Natural Language Processing helps to direct a Grievance to it right department. "
 
-      - title: Tempo
+      - title: Student Lecturer Appointment Management Application
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "In this project we I have tried to build up a application using OOPs concept in C++ for managing the Student Lecturer Appointment."
 
-      - title: Atom
+      - title: Click Stream Data Analysis using Big Data Hadoop 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "In this project I performed data analysis on Click Stream Data. For this project, I used HDFS for storing large amount of data and hive  for data analysis and for visualization used MS-Excel.  
+ "
 
-      - title: Delta
+      - title: Online Labour Management System using PHP
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "In this project we build a platform for both job provider and seekers using PHP."
+
+      - title: NITADDA
+        link: "#"
+        tagline: "Nitadda.com is an initiative to help the students to get note, previous year
+                    examination papers and schedule for various events and many other notifications .NITADDA focuses on
+                    providing students all the help they need to score well in their academics as well for their
+                    practical projects."
+        
+      - title: NITW Coding
+        link: "#"
+        tagline: "Nitwcoding.com  is an initiative  to help the students to compile their code.NITWCODING focuses on providing student with different algorithmic Problems."
 
 
 skills:
