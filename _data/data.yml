@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: himanshu.nitw@gmail.com
-    phone: +917983713217
+    phone: +91 7983713217
     website:  #do not add http://
     linkedin: kadianhimanshu
     github: himanshukadian
@@ -28,7 +28,7 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
     interests:
@@ -42,14 +42,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Objective
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A software engineering undergraduate who is seeking to ﬁnd the
+      opportunity to work in a fun and challenging working environment
+      that will encourage him to improve and learn
+      new and necessary skills as well as be motivated by
+      the company to do his best for the sake of
+      helping himself and the company advance in the software engineering industry.
 education:
     - degree: MCA 
       university: National Institute of Technology
