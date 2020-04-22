@@ -103,7 +103,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 60^%
+        level: 60%
 
       - name: Web Development
         level: 50%
